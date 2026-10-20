@@ -16,7 +16,7 @@ Historic England asks that this data is taken from its published spreadsheets or
 20 October 2026
 
 ## Licence and attribution
-© Historic England. Historic England publishes its open data under the Open Government Licence; the exact attribution wording for this file should be confirmed at the source page above.
+Copyright Historic England. Historic England publishes its open data under the Open Government Licence; the exact attribution wording for this file should be confirmed at the source page above.
 
 ## File format
 OpenDocument Spreadsheet (`.ods`). To read it in Python with pandas:
